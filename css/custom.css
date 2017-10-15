@@ -1,0 +1,50 @@
+/* Content formatting*/
+.content-column-content img {
+	max-width: 100%;
+}
+
+iframe {
+  display:block;
+  margin:auto;
+  margin-bottom: 4em;
+}
+
+.gallery-grid img {
+	display: block;
+	margin: 0 auto;
+}
+
+.gallery-grid {
+	margin-bottom: 4em;
+}
+
+/* Theme hacks */
+.copyright p.credit {
+	display: none;
+}
+
+/* Helpers */
+
+img[src$='#center'] {
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft'] {
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright'] {
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#fullwidth'] {
+	min-width: 100%;
+}

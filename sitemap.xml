@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/portfolio/gentle-monster-retail-installation/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/voteorlachancla/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/meals-on-wheels-america-lets-do-lunch/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/anomaly-areyoubetterthanourworst/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/sentimeter/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/activision-painyatta/</loc>
+    <lastmod>2014-10-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/pi-booth/</loc>
+    <lastmod>2014-07-16T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
