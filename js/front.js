@@ -53,7 +53,7 @@ function offCanvas() {
 
     $(document).ready(function () {
         $('[data-toggle="offcanvas"]').click(function () {
-            $('.row-offcanvas').toggleClass('active')
+            $('.row-offcanvas, .nav-toggle').toggleClass('active')
         });
     });
 
