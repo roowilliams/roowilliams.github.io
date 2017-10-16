@@ -1,6 +1,15 @@
 /* Content formatting*/
+
+.box-masonry h4 {
+  letter-spacing: 0.02em;
+}
+
 .content-column-content img {
 	max-width: 100%;
+}
+
+.content-column-content .small-image {
+	max-width: 50%;
 }
 
 iframe {
@@ -22,6 +31,8 @@ iframe {
 .copyright p.credit {
 	display: none;
 }
+
+
 
 /* Helpers */
 

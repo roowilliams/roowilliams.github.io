@@ -7,28 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Roowilliams</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
     
 	<atom:link href="https://roowilliams.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gentle Monster Retail Installation</title>
-      <link>https://roowilliams.github.io/portfolio/gentle-monster-retail-installation/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://roowilliams.github.io/portfolio/gentle-monster-retail-installation/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Week Long Sprint to Save the Country</title>
+      <title>Vote or La Chancla</title>
       <link>https://roowilliams.github.io/portfolio/voteorlachancla/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>https://roowilliams.github.io/portfolio/voteorlachancla/</guid>
       <description>A week before the 2016 US presidential election a few of the Latino folk at Anomaly and I got together to see if we could create something that would encourage Latino voters to get out the vote using creative technology.
-The Idea ‘La Chancla’ is an icon of Hispanic culture and a device that would strike fear into the eyes of every misbehaving child. In my British culture the equivalent force was known as ‘The Slipper’, and I felt its wrath too many times as a kid.</description>
+We decided to use &amp;lsquo;La Chancla&amp;rsquo; as a device to motivate action.
+The Idea ‘La Chancla’ is an icon of Latino culture and a device that would strike fear into the eyes of every misbehaving child.</description>
     </item>
     
     <item>
@@ -40,26 +32,25 @@ The Idea ‘La Chancla’ is an icon of Hispanic culture and a device that would
       <description>Meals on Wheels America is a complex organization comprised of over 5000 fiercely independent programs servicing their local area&amp;rsquo;s seniors.
 They approached Anomaly to ask for help recruiting new volunteers. We developed a creative messaging campaign to try and shift negative perceptions of older people.
   But even on the back of a successful, emotionally motivating campaign, there was still a huge problem to solve.
-One glance at a volunteer signup form was enough to make someone&amp;rsquo;s eyes glaze over, and when combined with the vetting process that must take place for all volunteer prospects, it was plain to see why it was a struggle to convert a prospect into a qualified volunteer.</description>
+Challenges One glance at a volunteer signup form was enough to make someone&amp;rsquo;s eyes glaze over, and when combined with the vetting process that must take place for all volunteer prospects, it was plain to see why it was a struggle to convert a prospect into a qualified volunteer.</description>
     </item>
     
     <item>
       <title>Meals on Wheels America: Savelunch</title>
-      <link>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</link>
+      <link>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</guid>
+      <guid>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</guid>
       <description>When the Trump administration announced budget plans that would severely impact Meals on Wheels, we saw an opportunity to help them push back. Working with creative team Westley Taylor and Wan Kang at Anomaly we created Savelunch.org to seed a campaign that encouraged, and made it easy for people to activate against the proposed cuts by either tweeting their representatives, skipping a meal and posting a photo of their empty plate on social media, or by emailing congress directly.</description>
     </item>
     
     <item>
-      <title>Diageo Sentimeter v1 &amp; v2</title>
-      <link>https://roowilliams.github.io/portfolio/sentimeter/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <title>Gentle Monster Retail Installation</title>
+      <link>https://roowilliams.github.io/portfolio/gentle-monster-retail-installation/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://roowilliams.github.io/portfolio/sentimeter/</guid>
-      <description>At TMW I ran a fortnightly ‘Hack Club’ where the geeks get together to nerd out and talk tech. We were asked if we could help promote the Data department’s role within the agency and also make people more aware of what data actually is. The result was the Sentimeter, a device that collects data around the simple question of ‘How are you feeling?’.
-Your browser does not support the video tag.</description>
+      <guid>https://roowilliams.github.io/portfolio/gentle-monster-retail-installation/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -73,12 +64,34 @@ To promote the new Skylanders game launch Activision were hosting an event at th
     </item>
     
     <item>
+      <title>AreYouBetterThanOurWorst.com</title>
+      <link>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</link>
+      <pubDate>Sun, 05 Oct 2014 19:44:32 +0530</pubDate>
+      
+      <guid>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</guid>
+      <description>Anomaly had recently been awarded Ad-Age&amp;rsquo;s Agency of the Year, so working with with creative team Pete Jostrand and Josh Chua, we asked our interns the question, Are You Better Than Our Worst?
+I built the site on Hugo static site generator. It features a custom video navigator&amp;hellip;
+And a sticky CTA, to ensure the apply button was never too far away.
+I also pushed our narrative digitally to quickly turn the site into interactive platform that built hype amongst our applicants.</description>
+    </item>
+    
+    <item>
       <title>Pi-Booth</title>
       <link>https://roowilliams.github.io/portfolio/pi-booth/</link>
       <pubDate>Wed, 16 Jul 2014 20:22:08 +0530</pubDate>
       
       <guid>https://roowilliams.github.io/portfolio/pi-booth/</guid>
       <description>Context It’s the first week of your new job. You are invited to an induction session, so you step into an unfamilliar room full of new people you will be spending the majority of your time with for the foreseeable future. The HR person pulls out a compact camera and takes aim at you you whilst everyone watches. You suddenly become aware of your gummy smile. You don’t want to smile, but you must.</description>
+    </item>
+    
+    <item>
+      <title>Diageo Sentimeter v1 &amp; v2</title>
+      <link>https://roowilliams.github.io/portfolio/sentimeter/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://roowilliams.github.io/portfolio/sentimeter/</guid>
+      <description>At TMW I ran a fortnightly ‘Hack Club’ where the geeks get together to nerd out and talk tech. We were asked if we could help promote the Data department’s role within the agency and also make people more aware of what data actually is. The result was the Sentimeter, a device that collects data around the simple question of ‘How are you feeling?’.
+Your browser does not support the video tag.</description>
     </item>
     
   </channel>
