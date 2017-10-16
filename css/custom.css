@@ -1,6 +1,10 @@
 /* Content formatting*/
 
-.box-masonry h4 {
+.intro-p {
+  font-size: 1.6em;
+}
+
+.sidebar-heading, .small-navbar-heading, .box-masonry h4 {
   letter-spacing: 0.02em;
 }
 
