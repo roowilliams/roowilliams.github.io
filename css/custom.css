@@ -363,7 +363,7 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
 }
 
 .glitch .text {
-  /*-webkit-animation: jerkwhole 6s infinite;*/
+  -webkit-animation: jerkwhole 7s infinite;
   /*position: relative;*/
   padding: 0;
   margin: 0;
@@ -488,21 +488,21 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
     -webkit-transform: scale(1, 1);
     -webkit-transform: skew(0, 0);
   }
-  41% {
+  40.25% {
     opacity: 0.8;
     top: 0px;
     left: -50px;
     -webkit-transform: scale(1, 1.2);
     -webkit-transform: skew(20deg, 0);
   }
-  42% {
+  40.75% {
     opacity: 0.8;
     top: 0px;
     left: 2em;
     -webkit-transform: scale(1, 1.2);
-    -webkit-transform: skew(-40deg, 0);
+    -webkit-transform: skew(-10deg, 0);
   }
-  43% {
+  41% {
     opacity: 1;
     top: 0;
     left: 0;
