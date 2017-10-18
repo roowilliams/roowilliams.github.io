@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Roowilliams</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2014 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="https://roowilliams.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are You Better Than Our Worst?</title>
+      <link>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</link>
+      <pubDate>Sun, 05 Oct 2014 19:44:32 +0530</pubDate>
+      
+      <guid>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</guid>
+      <description>Anomaly had recently been awarded Ad-Age&amp;rsquo;s Agency of the Year, so working with with creative team Pete Jostrand and Josh Chua, we asked our interns the question, Are You Better Than Our Worst?
+I built the site on Hugo static site generator. It features a custom video navigator&amp;hellip;
+And a sticky CTA, to ensure the apply button was never too far away - over 6 weeks we got over 2000 signups.</description>
+    </item>
     
     <item>
       <title>Vote or La Chancla</title>
@@ -24,24 +35,13 @@ The Idea ‘La Chancla’ is an icon of Latino culture and a device that would s
     </item>
     
     <item>
-      <title>Meals on Wheels America: Let&#39;s Do Lunch</title>
-      <link>https://roowilliams.github.io/portfolio/meals-on-wheels-america-lets-do-lunch/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>Activision Painyatta Event</title>
+      <link>https://roowilliams.github.io/portfolio/activision-painyatta/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://roowilliams.github.io/portfolio/meals-on-wheels-america-lets-do-lunch/</guid>
-      <description>Meals on Wheels America is a complex organization comprised of over 5000 fiercely independent programs servicing their local area&amp;rsquo;s seniors.
-They approached Anomaly to ask for help recruiting new volunteers. We developed a creative messaging campaign to try and shift negative perceptions of older people.
-  But even on the back of a successful, emotionally motivating campaign, there was still a huge problem to solve.
-Challenges One glance at a volunteer signup form was enough to make someone&amp;rsquo;s eyes glaze over, and when combined with the vetting process that must take place for all volunteer prospects, it was plain to see why it was a struggle to convert a prospect into a qualified volunteer.</description>
-    </item>
-    
-    <item>
-      <title>Meals on Wheels America: Savelunch</title>
-      <link>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</guid>
-      <description>When the Trump administration announced budget plans that would severely impact Meals on Wheels, we saw an opportunity to help them push back. Working with creative team Westley Taylor and Wan Kang at Anomaly we created Savelunch.org to seed a campaign that encouraged, and made it easy for people to activate against the proposed cuts by either tweeting their representatives, skipping a meal and posting a photo of their empty plate on social media, or by emailing congress directly.</description>
+      <guid>https://roowilliams.github.io/portfolio/activision-painyatta/</guid>
+      <description>When I was asked to build a robotic arm that would hit a pinata at an event full of children in just over a week I knew that the first thing I had to do was sketch out how it might look. The second thing I needed to do was call Tim at ELK and ask for his help!
+To promote the new Skylanders game launch Activision were hosting an event at the Royal Festival Hall, London.</description>
     </item>
     
     <item>
@@ -55,14 +55,24 @@ Photos courtesy of Gentle Monster &amp;amp; Sidewalk Hustle</description>
     </item>
     
     <item>
-      <title>Are You Better Than Our Worst?</title>
-      <link>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</link>
-      <pubDate>Sun, 05 Oct 2014 19:44:32 +0530</pubDate>
+      <title>Pi-Booth</title>
+      <link>https://roowilliams.github.io/portfolio/pi-booth/</link>
+      <pubDate>Wed, 16 Jul 2014 20:22:08 +0530</pubDate>
       
-      <guid>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</guid>
-      <description>Anomaly had recently been awarded Ad-Age&amp;rsquo;s Agency of the Year, so working with with creative team Pete Jostrand and Josh Chua, we asked our interns the question, Are You Better Than Our Worst?
-I built the site on Hugo static site generator. It features a custom video navigator&amp;hellip;
-And a sticky CTA, to ensure the apply button was never too far away - over 6 weeks we got over 2000 signups.</description>
+      <guid>https://roowilliams.github.io/portfolio/pi-booth/</guid>
+      <description>Context It’s the first week of your new job. You are invited to an induction session, so you step into an unfamilliar room full of new people you will be spending the majority of your time with for the foreseeable future. The HR person pulls out a compact camera and takes aim at you you whilst everyone watches. You suddenly become aware of your gummy smile. You don’t want to smile, but you must.</description>
+    </item>
+    
+    <item>
+      <title>Meals on Wheels America: Let&#39;s Do Lunch</title>
+      <link>https://roowilliams.github.io/portfolio/meals-on-wheels-america-lets-do-lunch/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://roowilliams.github.io/portfolio/meals-on-wheels-america-lets-do-lunch/</guid>
+      <description>Meals on Wheels America is a complex organization comprised of over 5000 fiercely independent programs servicing their local area&amp;rsquo;s seniors.
+They approached Anomaly to ask for help recruiting new volunteers. We developed a creative messaging campaign to try and shift negative perceptions of older people.
+  But even on the back of a successful, emotionally motivating campaign, there was still a huge problem to solve.
+Challenges One glance at a volunteer signup form was enough to make someone&amp;rsquo;s eyes glaze over, and when combined with the vetting process that must take place for all volunteer prospects, it was plain to see why it was a struggle to convert a prospect into a qualified volunteer.</description>
     </item>
     
     <item>
@@ -85,22 +95,12 @@ Using this technology allowed someone to switch between a version of the video s
     </item>
     
     <item>
-      <title>Activision Painyatta Event</title>
-      <link>https://roowilliams.github.io/portfolio/activision-painyatta/</link>
-      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <title>Meals on Wheels America: Savelunch</title>
+      <link>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://roowilliams.github.io/portfolio/activision-painyatta/</guid>
-      <description>When I was asked to build a robotic arm that would hit a pinata at an event full of children in just over a week I knew that the first thing I had to do was sketch out how it might look. The second thing I needed to do was call Tim at ELK and ask for his help!
-To promote the new Skylanders game launch Activision were hosting an event at the Royal Festival Hall, London.</description>
-    </item>
-    
-    <item>
-      <title>Pi-Booth</title>
-      <link>https://roowilliams.github.io/portfolio/pi-booth/</link>
-      <pubDate>Wed, 16 Jul 2014 20:22:08 +0530</pubDate>
-      
-      <guid>https://roowilliams.github.io/portfolio/pi-booth/</guid>
-      <description>Context It’s the first week of your new job. You are invited to an induction session, so you step into an unfamilliar room full of new people you will be spending the majority of your time with for the foreseeable future. The HR person pulls out a compact camera and takes aim at you you whilst everyone watches. You suddenly become aware of your gummy smile. You don’t want to smile, but you must.</description>
+      <guid>https://roowilliams.github.io/portfolio/meals-on-wheels-savelunch/</guid>
+      <description>When the Trump administration announced budget plans that would severely impact Meals on Wheels, we saw an opportunity to help them push back. Working with creative team Westley Taylor and Wan Kang at Anomaly we created Savelunch.org to seed a campaign that encouraged, and made it easy for people to activate against the proposed cuts by either tweeting their representatives, skipping a meal and posting a photo of their empty plate on social media, or by emailing congress directly.</description>
     </item>
     
     <item>

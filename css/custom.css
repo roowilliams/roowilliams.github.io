@@ -529,3 +529,7 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
 .workshop-item.med {
   width: 66.666%;
 }
+
+.instagram-media{
+  margin: 15px auto !important;
+}
