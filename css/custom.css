@@ -484,28 +484,28 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
   40% {
     opacity: 1;
     top: 0;
-    left: 0px;
+    /*left: 0px;*/
     -webkit-transform: scale(1, 1);
     -webkit-transform: skew(0, 0);
   }
   40.25% {
     opacity: 0.8;
     top: 0px;
-    left: -50px;
+    /*left: -50px;*/
     -webkit-transform: scale(1, 1.2);
     -webkit-transform: skew(20deg, 0);
   }
   40.75% {
     opacity: 0.8;
     top: 0px;
-    left: 2em;
+    /*left: 2em;*/
     -webkit-transform: scale(1, 1.2);
     -webkit-transform: skew(-10deg, 0);
   }
   41% {
     opacity: 1;
     top: 0;
-    left: 0;
+    /*left: 0;*/
     -webkit-transform: scale(1, 1);
     -webkit-transform: skew(0, 0);
   }
