@@ -112,14 +112,14 @@ iframe {
 
 .metadata {
   overflow: auto;
-  border-top: 1px solid rgba(240,240,240,0.4);
-  border-bottom: 1px solid rgba(240,240,240,0.4);
+  border-top: 1px solid rgba(240,240,240,0.2);
+  border-bottom: 1px solid rgba(240,240,240,0.2);
   margin: 2em 0;
   font-size: 0.8em;
 }
 .metadata h5 {
   font-weight: 500;
-  color: #e5e5e5;
+  color: #969696;
   text-transform: uppercase;
 }
 
@@ -127,6 +127,10 @@ iframe {
   list-style-type: none;
   margin: 0 0 1em;
   padding: 0;
+}
+
+.content-column-content .metadata ul li, .content-column-content .metadata ul li a {
+    color: #969696;
 }
 
 .metadata ul li:before {
@@ -317,7 +321,7 @@ border: 0;
 }
 
 .sidebar-p, .sidebar-menu li a, p.social a {
-  color: #e5e5e5;
+  color: #969696;
 }
 
 p.social a {
