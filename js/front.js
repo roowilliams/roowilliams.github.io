@@ -12,6 +12,12 @@ function highlightCurrentPage() {
   $("a[href='" + location.href + "']").parent().addClass("active");
 }
 
+$(function(){
+  for(i=0;i<3;i++){
+    $('.glitch .text span').eq(0).clone().prependTo('.glitch .text');
+  }
+});
+
 /* =========================================
  *  carousels
  *  =======================================*/
