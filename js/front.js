@@ -50,6 +50,15 @@ function masonry() {
     $grid.imagesLoaded().progress(function () {
         $grid.masonry('layout');
     });
+    var $grid2 = $('.workshop-grid').masonry({
+        itemSelector: '.workshop-item',
+        percentPosition: true,
+        columnWidth: '.grid-sizer'
+    });
+
+    $grid2.imagesLoaded().progress(function () {
+        $grid2.masonry('layout');
+    });
 }
 
 /* =========================================

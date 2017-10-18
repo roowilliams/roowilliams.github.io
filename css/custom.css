@@ -3,7 +3,7 @@
 /* Content formatting*/
 html, body {
   height: 100%;
-  background: linear-gradient(0deg, #a1002f, #0000b7);
+  background: linear-gradient(0deg, #060606, #0a0a0a);
 }
 body {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
@@ -500,4 +500,32 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
     -webkit-transform: scale(1, 1);
     -webkit-transform: skew(0, 0);
   }
+}
+
+/* ---- grid ---- */
+
+/* clear fix */
+.workshop-grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.workshop-item {
+  width: 33.333%;
+}
+
+.workshop-item {
+  float: left;
+}
+
+.workshop-item img {
+  display: block;
+  width: 100%;
+}
+.workshop-item.med {
+  width: 66.666%;
 }
