@@ -50,17 +50,8 @@ Challenges One glance at a volunteer signup form was enough to make someone&amp;
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://roowilliams.github.io/portfolio/gentle-monster-retail-installation/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Activision Painyatta Event</title>
-      <link>https://roowilliams.github.io/portfolio/activision-painyatta/</link>
-      <pubDate>Sun, 05 Oct 2014 19:44:32 +0530</pubDate>
-      
-      <guid>https://roowilliams.github.io/portfolio/activision-painyatta/</guid>
-      <description>When I was asked to build a robotic arm that would hit a pinata at an event full of children in just over a week I knew that the first thing I had to do was sketch out how it might look. The second thing I needed to do was call Tim at ELK and ask for his help!
-To promote the new Skylanders game launch Activision were hosting an event at the Royal Festival Hall, London.</description>
+      <description>I provided technical and installation assistance with a custom projection to help bring a static sculpture to life with rippling light using multiple projectors at Gentle Monster&amp;rsquo;s NYC flagship store. Full screen, looping video player made with HTML and JavaScript.
+Photos courtesy of Gentle Monster &amp;amp; Sidewalk Hustle</description>
     </item>
     
     <item>
@@ -71,8 +62,7 @@ To promote the new Skylanders game launch Activision were hosting an event at th
       <guid>https://roowilliams.github.io/portfolio/anomaly-areyoubetterthanourworst/</guid>
       <description>Anomaly had recently been awarded Ad-Age&amp;rsquo;s Agency of the Year, so working with with creative team Pete Jostrand and Josh Chua, we asked our interns the question, Are You Better Than Our Worst?
 I built the site on Hugo static site generator. It features a custom video navigator&amp;hellip;
-And a sticky CTA, to ensure the apply button was never too far away.
-I also pushed our narrative digitally to quickly turn the site into interactive platform that built hype amongst our applicants.</description>
+And a sticky CTA, to ensure the apply button was never too far away - over 6 weeks we got over 2000 signups.</description>
     </item>
     
     <item>
@@ -81,8 +71,8 @@ I also pushed our narrative digitally to quickly turn the site into interactive 
       <pubDate>Sun, 05 Oct 2014 19:44:32 +0530</pubDate>
       
       <guid>https://roowilliams.github.io/portfolio/converse-h09909/</guid>
-      <description> Working with creative team Ben Dean and Linda Yang, I produced a prototype to test ability to detect light levels in a room via a user&amp;rsquo;s webcam and swap out content displayed accordingly.
-Links </description>
+      <description>Working with creative team Ben Dean and Linda Yang, I produced a prototype to test ability to detect light levels in a room via a user&amp;rsquo;s webcam and swap out content displayed accordingly.
+Using this technology allowed someone to switch between a version of the video shot in light whilst watching in a lit room, and a darker, scarier version of the video by turning out the light.</description>
     </item>
     
     <item>
@@ -92,6 +82,16 @@ Links </description>
       
       <guid>https://roowilliams.github.io/portfolio/converse-wetropolis/</guid>
       <description>Helped out creative team Josh Chua and Pete Jostrand by building prototypes to test ideas and aid creative development for Converse.</description>
+    </item>
+    
+    <item>
+      <title>Activision Painyatta Event</title>
+      <link>https://roowilliams.github.io/portfolio/activision-painyatta/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roowilliams.github.io/portfolio/activision-painyatta/</guid>
+      <description>When I was asked to build a robotic arm that would hit a pinata at an event full of children in just over a week I knew that the first thing I had to do was sketch out how it might look. The second thing I needed to do was call Tim at ELK and ask for his help!
+To promote the new Skylanders game launch Activision were hosting an event at the Royal Festival Hall, London.</description>
     </item>
     
     <item>

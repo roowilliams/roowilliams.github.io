@@ -15,6 +15,11 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 2em;
   letter-spacing: -0.01em;
+  text-align: 
+}
+
+.content-column-content h1 {
+  text-align: center;
 }
 
 h3 {
@@ -49,6 +54,8 @@ h3 {
 .accent-image {
   display: block;
   margin: 0 auto;
+  width: 12px;
+  height: 12px;
 }
 
 .sidebar-heading, .small-navbar-heading {
@@ -71,7 +78,7 @@ color: #313131;
 .content-column-content img {
   max-width: 100%;
 }
-`¬
+
 .content-column-content .small-image {
   max-width: 50%;
 }
@@ -91,12 +98,37 @@ iframe {
   margin-bottom: 4em;
 }
 
+.metadata {
+  overflow: auto;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  margin: 2em 0;
+  font-size: 0.8em;
+}
+.metadata h5 {
+  font-weight: 500;
+}
+
+.metadata ul {
+  list-style-type: none;
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+.metadata ul li:before {
+  content: none;
+  margin: 0;
+}
 /* Theme hacks */
 .copyright p.credit {
   display: none;
 }
 
 .box-masonry {
+  box-shadow: none;
+  border: 1px solid #eee;
+}
+.box-masonry:hover {
   box-shadow: none;
 }
 
