@@ -542,3 +542,7 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
 .instagram-media{
   margin: 15px auto !important;
 }
+
+iframe {
+  border: 0;
+}
