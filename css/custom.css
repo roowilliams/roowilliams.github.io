@@ -546,3 +546,7 @@ a, .sidebar-menu li.active a, .sidebar-menu li.active:before {
 iframe {
   border: 0;
 }
+
+video {
+  margin-bottom: 4em;
+}
