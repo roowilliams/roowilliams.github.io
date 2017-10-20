@@ -3,7 +3,7 @@
 /* Content formatting*/
 html, body {
   height: 100%;
-  background: linear-gradient(0deg, #060606, #0a0a0a);
+  background-color: #060606;
   -webkit-overflow-scrolling: touch;
 }
 body {
