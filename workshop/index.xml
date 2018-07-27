@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Workshop: Making Things IRL on Roo Williams</title>
+    <link>http://roowilliams.com/workshop/</link>
+    <description>Recent content in The Workshop: Making Things IRL on Roo Williams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Roowilliams</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="http://roowilliams.com/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
