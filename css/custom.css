@@ -33,7 +33,6 @@ h3 {
   letter-spacing: -0.02em;
 }
 
-<<<<<<< HEAD
 .content-column-content ol, .content-column-content ul {
     margin-top: 0;
     margin-bottom: 4em;
@@ -42,8 +41,6 @@ h3 {
 .content-column-content ul li {
   margin-bottom: 1em;
 }
-=======
->>>>>>> 695c76b82da1cec17f67d64ce49106f940aed5b3
 .box-masonry h4 {
   text-transform: capitalize;
   letter-spacing: 0.0em;
